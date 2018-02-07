@@ -1,0 +1,44 @@
+.mbri-arrow-down::before {
+  content: url('dropdown.png');
+  display: inline-block;
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  -ms-transform: scale(1);
+  -o-transform: scale(1);
+    -webkit-transition: -webkit-transform 0.5s ease;
+  -moz-transition: -moz-transform 0.5s ease;
+  -ms-transition: -ms-transform 0.5s ease;
+  -o-transition: -o-transform 0.5s ease;
+  transition: transform 0.5s ease;    
+}
+
+.mbri-arrow-up::before {
+  content: url('dropdown.png');
+  display: inline-block;
+  transform: scale(-1);
+  -webkit-transform: scale(-1);
+  -moz-transform: scale(-1);
+  -ms-transform: scale(-1);
+  -o-transform: scale(-1);
+    -webkit-transition: -webkit-transform 0.5s ease;
+  -moz-transition: -moz-transform 0.5s ease;
+  -ms-transition: -ms-transform 0.5s ease;
+  -o-transition: -o-transform 0.5s ease;
+  transition: transform 0.5s ease;  
+}
+
+.mbri-link-chain::before {
+  content: url('chain.png');
+  -webkit-transition: opacity 0.5s ease;
+  -moz-transition: opacity 0.5s ease;
+  -ms-transition: filter 0.5s ease;
+  -o-transition: opacity 0.5s ease;
+  transition: opacity 0.5s ease;
+  display: inline-block;
+  opacity: 0.3;
+  filter: alpha(opacity=50);
+}
+.mbri-link-chain:hover::before{
+  opacity: 1;
+  filter: alpha(opacity=100);
+}

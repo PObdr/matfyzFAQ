@@ -1,0 +1,7 @@
+"Q", "A", "link"
+"Jak získám tu avizovanou studentskou slevu v restauraci v podzemí na MS?", "Mělo by stačit, když se prokážeš ISICem. Udělej to však ještě před objednáním jídla.", "sleva"
+"Nějaký tutoriál jak nainstalovat Pascal?", "Stáhni si vhodnou verzi z <a href='https://www.freepascal.org/download.var'>webu</a> a nainstaluj. To zvládneš!<br />Pokud si myslíš, že se ti s ním bude pracovat špatně, můžeš využít i třeba Visual Studio s <a href='https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal'>vhodným pluginem</a>.", "pascal"
+"Jak se mám jako vzdáleně připojit do labu?", "Zkus SSH a (pro přenos souborů) SFTP třeba podle <a href='http://pobdr.matfyz.cz/ssh'>návodu</a>.", "lab-ssh"
+"Můžu mít někde na fakultě svoje webovky?", "Jasně! Zařídit si je můžeš třeba v labu, stačí si <a href='http://wiki.ms.mff.cuni.cz/wiki/laborato%c5%99_UNIX#WWW_str%C3%A1nky'>vhodně nastavit</a> složku ~/WWW/ ve svém labovém účtu.", "www"
+"Dá se na Malé Straně ohřát oběd?", "Ano. Můžeš využít kuchyňku ve 4. patře (západní chodba) a v 5. patře. Chovej se tam s respektem k věcem, vše po sobě ukliď!", "obed"
+"Jak se dostanu do labu večer a o víkendu?", "Stačí dojít k průchodu (když stojíš na náměstí a koukáš na budovu zespodu, tak je vlevo), dojít k mřížované bráně a těsně před ní narazíš po pravé straně na vstup. Zazvoníš si na službu v labu a počkáš, až ti přijdou otevřít.", "pruchod-ms"
