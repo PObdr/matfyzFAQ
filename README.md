@@ -8,7 +8,7 @@ Jedna dobrá historka začíná slovy „To jsme šli jednou do hospody a nebyl 
 
 ## Jak se odpovídá na dotaz od studenta?
 
-Teď už stačí jen odkazem! Buď se odkážeme na [FAQ](http://faq.matfyz.cz/] nebo můžeme na konec odkazu přidat i #link-na-dotaz
+Teď už stačí jen odkazem! Buď se odkážeme na [FAQ](http://faq.matfyz.cz/) nebo můžeme na konec odkazu přidat i #link-na-dotaz
 
 ## Jak editovat otázky a odpovědi?
 
