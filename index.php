@@ -307,7 +307,7 @@
         <div class="media-container-row align-center mbr-white">
             <div class="col-12">
                 <h6 class="mbr-text mb-0 mbr-fonts-style display-7" style="font-weight:normal;">
-                    &copy; Content copyright 2018<?=(date('Y')>2018?' - '.date('Y'):'')?>: <a href="http://pobdr.matfyz.cz" class="text-white">Pavel Obdržálek</a>, <a href="http://www.ms.mff.cuni.cz/~yaghoboa/" class="text-white">Anna Yaghobová</a>, Míra Štochel, Petr Houška, Petra Hoffmannová<br />a spousta dotazovatelů z řad studentů…
+                    &copy; Content copyright 2018<?=(date('Y')>2018?' - '.date('Y'):'')?>: <a href="http://pobdr.matfyz.cz" class="text-white">Pavel Obdržálek</a>, <a href="http://www.ms.mff.cuni.cz/~yaghoboa/" class="text-white">Anna Yaghobová</a>, Míra Štochel, <a href="http://petrroll.cz/" class="text-white">Petr Houška</a>, Petra Hoffmannová<br />a spousta dotazovatelů z řad studentů…
                 </h6>
                 Pomohlo ti to? Kup nám třeba pivko! <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
