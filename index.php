@@ -26,6 +26,8 @@ $nazvy = array //usage: array("Nadpis sekce", "unikatni identifikatro (bude slou
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css" type="text/css">
   <link rel="stylesheet" href="assets/theme/css/style.css" type="text/css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
+  <link rel="icon" type="image/x-icon" href="/favicon.ico"/>
   
 <style>
 .mbr-fonts-style{line-height: 1.5;}
