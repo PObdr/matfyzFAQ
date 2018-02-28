@@ -178,4 +178,12 @@ foreach($nazvy as $nazev){vypisSekci($nazev[0], $nazev[1], $nazev[2]);}
 </body>
 
 </html>
+<?php  //logování
+if ($_REQUEST['stat']!="none")
+{
+  $stat=fopen("statistic.log","a");
+  fwrite($stat,date("d.m.Y H:i:s")." | ".$_SERVER['REMOTE_ADDR']." | ".$_SERVER['HTTP_USER_AGENT']." | HTTP_REFERER=".$_SERVER['HTTP_REFERER']." | ".$_SERVER['QUERY_STRING']."\n");
+  fclose($stat);
+}
+?>
 Tuhle jedničku tady vyrábí include, tak jsem se to pokusil schovat. Ale může za to doména matfyz.cz: 
