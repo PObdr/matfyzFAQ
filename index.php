@@ -178,7 +178,7 @@ foreach($nazvy as $nazev){vypisSekci($nazev[0], $nazev[1], $nazev[2]);}
 </body>
 
 </html>
-<?php  //logování
+<?php  //logování, které je ale pri vyuziti matfyz.cz a volby include docela nepouzitelne, ale aspon to da infotmace o casu a poctu vyuziti
 if ($_REQUEST['stat']!="none")
 {
   $stat=fopen("statistic.log","a");
