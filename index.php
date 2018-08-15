@@ -17,6 +17,11 @@ $nazvy = array //usage: array("Nadpis sekce", "unikatni identifikatro (bude slou
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta property="og:image" content="http://<?php echo $_SERVER[HTTP_HOST].strtok(strtok($_SERVER["REQUEST_URI"],'?'),'#');?>faq_icon.png" />
+  <meta property="og:image:type" content="image/png" /> 
+  <meta property="og:image:width" content="400" /> 
+  <meta property="og:image:height" content="400" />
+  <meta property="og:description" content="<?php echo $podnadpis;?>" />
   <title><?php echo $nadpis;?></title>
   <base target="_parent">
   <meta name="viewport" content="width=device-width, initial-scale=1">
